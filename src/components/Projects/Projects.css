@@ -13,15 +13,21 @@
     align-items: center;
 }
 
+#projects-div h1{
+    margin: 3rem;
+    font-size: 4rem;
+}
+
 table{
     border-collapse: collapse;
+    border-style: hidden;
 }
 
 td{
     text-align: center;
     
     padding: 3rem;
-    border: solid grey;
+    border: solid rgb(216, 216, 216);
 }
 
 td a{
