@@ -12,7 +12,8 @@ function App() {
   return (
     <>
     <BioCard />
-    
+    <footer>
+    </footer>
     </>
   )
 }

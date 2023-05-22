@@ -1,0 +1,27 @@
+#name-title-div{
+    text-align: left;
+    font-family: 'Bruno Ace', cursive;
+    width: 75rem;
+    background-color: rgba(0,0,0,.7);
+    border-radius: 20px;
+    color: white;
+    padding: 1rem;
+    box-shadow: 0 0px 15px .5rem rgba(136, 255, 125, 0.2);
+}
+#name{
+    font-size: 7rem;
+    margin: 1rem 0 0 0;
+}
+
+#my-title{
+    font-family: 'Teko', sans-serif;
+    font-size: 4rem;
+    margin: -10px 0 0 0;
+    padding: 0;
+    color: rgb(60, 255, 60);
+}
+
+#my-bio{
+    font-family: 'Teko', sans-serif;
+    font-size: 2rem;
+}
