@@ -5,6 +5,7 @@ import './App.css'
 import BioCard from './components/BioCard/BioCard'
 import AboutMe from './components/AboutMe/AboutMe'
 import Skills from './components/Skills/Skills'
+import Projects from './components/Projects/Projects'
 
 
 
@@ -16,6 +17,7 @@ function App() {
     <BioCard />
     <AboutMe />
     <Skills />
+    <Projects />
     </>
   )
 }

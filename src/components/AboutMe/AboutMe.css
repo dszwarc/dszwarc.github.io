@@ -19,14 +19,15 @@
 }
 
 .logo{
-    height: 3rem;
-    width: auto;
+    width: 3rem;
+    height: auto;
 }
 
 #contact-info{
     display: flex;
     justify-content: space-evenly;
     align-items: center !important;
+    margin: 3rem;
 }
 
 #download-resume{
