@@ -1,0 +1,36 @@
+#my-bio{
+    font-family: 'Teko', sans-serif;
+    font-size: 2rem;
+    background-color: rgba(0,0,0,.4);
+    width: 50%;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-shadow: none;
+}
+
+.intro-card{
+    width: 30% !important;
+}
+
+#about-me{
+    text-align: center;
+    margin: 1rem;
+    font-size: 3rem;
+}
+
+.logo{
+    height: 3rem;
+    width: auto;
+}
+
+#contact-info{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center !important;
+}
+
+#download-resume{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

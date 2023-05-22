@@ -1,0 +1,28 @@
+.skill-logo{
+    height: 15rem;
+    width: auto;
+}
+
+#skills{
+    margin: 3rem;
+    width: 70%;
+    background-color: white;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#skills h1{
+    margin: 3rem;
+    font-size: 4rem;
+
+}
+
+#skills-logos-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10rem;
+    margin: 4rem;
+}
