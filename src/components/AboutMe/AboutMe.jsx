@@ -8,7 +8,7 @@ export default function AboutMe(){
                 <Image id='profile-pic' src='https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/121484091_10158044998108305_3813570862112728143_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=Ucl04EwHwl8AX8aKXWB&_nc_ht=scontent-lga3-1.xx&oh=00_AfC3QrEUbDze5tJ0TqZl-Hc8R7pIPqxvLaWdSxy5eXZYXg&oe=64923170' wrapped ui={false} />
                 <Card.Content>
                 <Card.Header id='about-me'>
-                    About Me
+                    ABOUT ME
                 </Card.Header>
                 <Card.Description id='full-bio'>
                     My name is Dan and I am a mechanical engineer turned software engineer. I have chosen to challenge myself and change careers from one engineering field to the next. My love of problem solving and obssesive need to understand how things work has aided me during this transition and has allowed me to quickly develop a new set of skills. In the short 3 months at General Assembly, I have developed 4 standalone projects demonstrating these skills which I have linked below. In addition to my engineering background, I am an avid tennis player. I've been competing for more than 2 decades and really reflects the competitive drive that I have both on the court and in my work.
