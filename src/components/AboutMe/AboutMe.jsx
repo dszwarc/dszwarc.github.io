@@ -11,7 +11,7 @@ export default function AboutMe(){
                     About Me
                 </Card.Header>
                 <Card.Description>
-                    My name is Dan and I am a mechanical engineer turned software engineer. I have chosen to challenge myself and change careers from one engineering field to the next. My love of problem solving and obssesive need to understand how things work has aided me during this transition and has allowed me to quickly develop a new set of skills. In the short 3 months at General Assembly, I have developed 4 standalone projects demonstrating these skills which I have linked below.
+                    My name is Dan and I am a mechanical engineer turned software engineer. I have chosen to challenge myself and change careers from one engineering field to the next. My love of problem solving and obssesive need to understand how things work has aided me during this transition and has allowed me to quickly develop a new set of skills. In the short 3 months at General Assembly, I have developed 4 standalone projects demonstrating these skills which I have linked below. In addition to my engineering background, I am an avid tennis player. I've been competing for more than 2 decades and really reflects the competitive drive that I have both on the court and in my work.
                 </Card.Description>
                 </Card.Content>
                 <Card.Content  extra>
