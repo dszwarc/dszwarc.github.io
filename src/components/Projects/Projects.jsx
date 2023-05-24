@@ -4,7 +4,7 @@ import './Projects.css'
 export default function Projects(){
    return(
     <div id='projects-div'>
-        <h1>Projects</h1>
+        <h1>PROJECTS</h1>
         <table>
             <tbody>
                 <tr>

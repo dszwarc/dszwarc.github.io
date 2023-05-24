@@ -2,14 +2,14 @@
     font-family: 'Teko', sans-serif;
     font-size: 2rem;
     background-color: rgba(0,0,0,.4);
-    width: 50%;
+    width: 60%;
     padding: 1rem;
     border-radius: 1rem;
     text-shadow: none;
 }
 
 .intro-card{
-    width: 30% !important;
+    width: 60% !important;
 }
 
 #about-me{
@@ -34,4 +34,23 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    color: black;
+    font-size: 1.5rem;
+}
+
+#download-resume:hover{
+    color: rgb(82, 186, 255);
+    font-size: 1.5rem;
+}
+
+#profile-pic{
+    width: 50%;
+    align-self: center;
+    margin: 2rem;
+}
+
+#full-bio{
+    margin-left: 4rem;
+    margin-right: 4rem;
+    text-align: center;
 }
