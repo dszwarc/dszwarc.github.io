@@ -1,11 +1,13 @@
 import React from "react";
 import './AboutMe.css'
 import { Card, Image, Icon} from 'semantic-ui-react'
+import myImage from '/src/assets/images/dsprof.jpeg'
+
 
 export default function AboutMe(){
     return(
             <Card raised='true' className="intro-card">
-                <Image id='profile-pic' src='https://github.com/dszwarc/dszwarc.github.io/blob/main/src/assets/images/dsprof.jpeg' wrapped ui={false} />
+                <Image id='profile-pic' src={myImage} wrapped ui={false} />
                 <Card.Content>
                 <Card.Header id='about-me'>
                     ABOUT ME
