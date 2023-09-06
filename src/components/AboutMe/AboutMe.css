@@ -44,9 +44,11 @@
 }
 
 #profile-pic{
-    width: 25%;
     align-self: center;
     margin: 2rem;
+    height: auto;
+    width: 500px;
+    object-fit: fill;
 }
 
 #full-bio{

@@ -6,7 +6,7 @@
     color: white;
     padding: 4rem;
     box-shadow: 0 0px 15px .5rem rgba(136, 255, 125, 0.2);
-    background-image: url('/src/images/lcsbackground.jpeg');
+    background-image: url('/src/assets/images/lcsbackground.jpeg');
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
