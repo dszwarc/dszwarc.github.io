@@ -7,7 +7,6 @@ import myImage from '/src/assets/images/dsprof.jpeg'
 export default function AboutMe(){
     return(
             <Card raised='true' className="intro-card">
-                <img src={myImage} alt="" />
                 <Image id='profile-pic' src={myImage} wrapped ui={false} />
                 <Card.Content>
                 <Card.Header id='about-me'>
