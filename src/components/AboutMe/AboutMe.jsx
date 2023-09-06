@@ -5,7 +5,7 @@ import { Card, Image, Icon} from 'semantic-ui-react'
 export default function AboutMe(){
     return(
             <Card raised='true' className="intro-card">
-                <Image id='profile-pic' src='https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/121484091_10158044998108305_3813570862112728143_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=Ucl04EwHwl8AX8aKXWB&_nc_ht=scontent-lga3-1.xx&oh=00_AfC3QrEUbDze5tJ0TqZl-Hc8R7pIPqxvLaWdSxy5eXZYXg&oe=64923170' wrapped ui={false} />
+                <Image id='profile-pic' src='src/images/dsprof.jpeg' width='180' height='auto' wrapped ui={false} />
                 <Card.Content>
                 <Card.Header id='about-me'>
                     ABOUT ME
